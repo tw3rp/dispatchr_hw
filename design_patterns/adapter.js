@@ -5,7 +5,7 @@ var translate = {
   }
   ...
   map: function(id){
-    //return tree in a different format
-    return tree
+    //return workorders or groups in a different format
+    return workorder
   }
 }
